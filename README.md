@@ -1,7 +1,6 @@
 # Book Shop Management System
 
-## Overview
-The Book Shop Management System is a comprehensive application developed using C# and the .NET Framework. This system is designed to manage book inventory, customer data, and sales transactions, providing both users and administrators with a seamless experience.
+**The Book Shop Management System** is a comprehensive application developed using C# and the .NET Framework. This system is designed to manage book inventory, customer data, and sales transactions, providing both users and administrators with a seamless experience.
 
 ## Features
 - **User Dashboard**: An intuitive interface for customers to view and manage their book purchases.
