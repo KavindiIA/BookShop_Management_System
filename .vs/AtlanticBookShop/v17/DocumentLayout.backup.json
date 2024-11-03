@@ -1,0 +1,424 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|c:\\users\\kavindi\\source\\repos\\atlanticbookshop\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|solutionrelative:form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|solutionrelative:form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|solutionrelative:form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|solutionrelative:form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|solutionrelative:form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|solutionrelative:form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|solutionrelative:form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|solutionrelative:form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|solutionrelative:form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AtlanticBookShop||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\crystalreport4.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|solutionrelative:crystalreport4.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\crystalreport3.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|solutionrelative:crystalreport3.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|solutionrelative:form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|solutionrelative:form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|solutionrelative:form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB58B96-CC77-4F39-9C19-7DBFDB31C9BB}|AtlanticBookShop.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form5.cs",
+              "RelativeDocumentMoniker": "Form5.cs",
+              "ToolTip": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form5.cs [Design]",
+              "RelativeToolTip": "Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:57:04.047Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form9.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form9.cs",
+              "RelativeDocumentMoniker": "Form9.cs",
+              "ToolTip": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form9.cs [Design]",
+              "RelativeToolTip": "Form9.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T09:31:15.046Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form8.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form8.cs",
+              "RelativeDocumentMoniker": "Form8.cs",
+              "ToolTip": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form8.cs [Design]",
+              "RelativeToolTip": "Form8.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T09:02:23.95Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form4.cs",
+              "RelativeToolTip": "Form4.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwDoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T03:08:46.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form5.cs",
+              "RelativeDocumentMoniker": "Form5.cs",
+              "ToolTip": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form5.cs",
+              "RelativeToolTip": "Form5.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAA1wCEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T05:24:16.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAowCIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T03:06:11.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form8.cs",
+              "DocumentMoniker": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form8.cs",
+              "RelativeDocumentMoniker": "Form8.cs",
+              "ToolTip": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form8.cs",
+              "RelativeToolTip": "Form8.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAwEUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T03:10:31.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form6.cs",
+              "RelativeDocumentMoniker": "Form6.cs",
+              "ToolTip": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form6.cs",
+              "RelativeToolTip": "Form6.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAkwIkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T04:52:49.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form10.cs",
+              "DocumentMoniker": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form10.cs",
+              "RelativeDocumentMoniker": "Form10.cs",
+              "ToolTip": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form10.cs",
+              "RelativeToolTip": "Form10.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwC8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T09:56:32.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form9.cs",
+              "DocumentMoniker": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form9.cs",
+              "RelativeDocumentMoniker": "Form9.cs",
+              "ToolTip": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form9.cs",
+              "RelativeToolTip": "Form9.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAewCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T05:17:27.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form7.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form7.cs",
+              "RelativeDocumentMoniker": "Form7.cs",
+              "ToolTip": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form7.cs [Design]",
+              "RelativeToolTip": "Form7.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:39:48.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form6.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form6.cs",
+              "RelativeDocumentMoniker": "Form6.cs",
+              "ToolTip": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form6.cs [Design]",
+              "RelativeToolTip": "Form6.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T04:41:36.721Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form10.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form10.cs",
+              "RelativeDocumentMoniker": "Form10.cs",
+              "ToolTip": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form10.cs [Design]",
+              "RelativeToolTip": "Form10.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T09:55:57.531Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AtlanticBookShop",
+              "DocumentMoniker": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\AtlanticBookShop.csproj",
+              "RelativeDocumentMoniker": "AtlanticBookShop.csproj",
+              "ToolTip": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\AtlanticBookShop.csproj",
+              "RelativeToolTip": "AtlanticBookShop.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-02T11:49:24.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CrystalReport4.rpt",
+              "DocumentMoniker": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\CrystalReport4.rpt",
+              "RelativeDocumentMoniker": "CrystalReport4.rpt",
+              "ToolTip": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\CrystalReport4.rpt",
+              "RelativeToolTip": "CrystalReport4.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPdSURBVDhPrZRbaBxVGMf/c9nd2Vuyu9nN5m7aStI2oWtSCBgtWgj10oe2D2Le1FRRBBEk\u002BCJo8amIIL5U0BfFF6mFalOs0CdrWqhJNkmTUEyyzaXuJpvsdXZ2dnauntmdbJvEvvkb/pxvZr7vP\u002Bec\u002BTj4XzEMg7LCCj39z7/y6vC7n1m3T2RtaWHi8ncXP7Bud8FaYwVPnS94pPeZgcihIBiGBkWuvfyzXcC0P9SsKrJ08\u002Br3XxbymaT1qgJjjRXaOrsiz518\u002BdyJSCv8Xid8HgcCXo7Ej1QQZciGrf7EswN9W\u002BlMLpva3hCLfNayAG2NNcw50RSFYklBtiAhs0diWYXXZcfxo23O4fMfXewbHHrNWx8IV6v/w7AGcSa\u002B\u002B0VebeVEXBuPgSezPT383qdDZ98YrRY9YYYmDKlm6KpkWsLvxhg2qTjaw14M9rRg4EgTBntbcKCtwel2OzmrbLchRUxoYmBe5kjTNAS6gHvGLK4LV/FD/lssUBMIB9xosuThbOSjj2z2GJr7txNTyGgpLGl/Y5G6j/viPH4VruAX4WfMKzOVD5qzN/Meh2ZcjRxRHZGPste7dIOGphuQjCKiUhTjpXFojAyH7oCmabjJ38Cl9FfIKCkYlLbPkG0\u002Bc/lFQI\u002BQOEg1cpGlDYP8TQVjxetYLi9DhYZcKYdCloeqqSQViKYn8f7GCL4\u002BdolsjrPqZMF\u002B8\u002BExV1lRfGleaY5tlP0zqzIu/JQC6\u002BtCOryCXDgKw6OD1hhIs2WU4xI6mjsx\u002BvrHaORCyFCCZVWFVgtri7qw/mebt3Br4BC73NPBIZGWEVsM4uFsL9KrByGyAkkkWxFX0cf24/zRt/FC6CQ8Ns\u002B\u002BJTM5tX47OrOwSp6vdbb6Q4c73Kc4O4tYUkN6MwRKDsLuT0HMJ/CU1I43B0bw1tBIxcjUZlpAdGpqYvavWzcqhrH524jN39FFxVZk65qebm1uOHeqP4BkXsc2r0NM\u002BWE8OAy7L4rPX/oEZyJnwZI22WmvZKaE6ejkxPTdqmGtbebu/oa529dgt7FwO\u002B3obnGgI2iDi2PgdzRg9MAFdLl6YZBcilSZKzXbj5whtVYzqRlKRR6lYp4kUzBbJ1cCNFJZ72Hhd9sRtIXB6nboul5b7uPaoWZoompAtghMLEuIZwxyhDFoD9LoDqvI8SISKQFxcnytb/E1lWS1cpjssOs8pGiGVw37yty61Ej\u002BC9cZouBlVTHoKKTWE7liOsvL0EpaucSbK6\u002BR2kqsWeFuw5YAN336eOCLsqK\u002BIxSl7rwgI54UZhaWtn9cXElOKqr28N6dMX7qjyuKVbIH4F/CwpxOdjf1iQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-11-02T12:03:15.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CrystalReport3.rpt",
+              "DocumentMoniker": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\CrystalReport3.rpt",
+              "RelativeDocumentMoniker": "CrystalReport3.rpt",
+              "ToolTip": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\CrystalReport3.rpt",
+              "RelativeToolTip": "CrystalReport3.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPdSURBVDhPrZRbaBxVGMf/c9nd2Vuyu9nN5m7aStI2oWtSCBgtWgj10oe2D2Le1FRRBBEk\u002BCJo8amIIL5U0BfFF6mFalOs0CdrWqhJNkmTUEyyzaXuJpvsdXZ2dnauntmdbJvEvvkb/pxvZr7vP\u002Bec\u002BTj4XzEMg7LCCj39z7/y6vC7n1m3T2RtaWHi8ncXP7Bud8FaYwVPnS94pPeZgcihIBiGBkWuvfyzXcC0P9SsKrJ08\u002Br3XxbymaT1qgJjjRXaOrsiz518\u002BdyJSCv8Xid8HgcCXo7Ej1QQZciGrf7EswN9W\u002BlMLpva3hCLfNayAG2NNcw50RSFYklBtiAhs0diWYXXZcfxo23O4fMfXewbHHrNWx8IV6v/w7AGcSa\u002B\u002B0VebeVEXBuPgSezPT383qdDZ98YrRY9YYYmDKlm6KpkWsLvxhg2qTjaw14M9rRg4EgTBntbcKCtwel2OzmrbLchRUxoYmBe5kjTNAS6gHvGLK4LV/FD/lssUBMIB9xosuThbOSjj2z2GJr7txNTyGgpLGl/Y5G6j/viPH4VruAX4WfMKzOVD5qzN/Meh2ZcjRxRHZGPste7dIOGphuQjCKiUhTjpXFojAyH7oCmabjJ38Cl9FfIKCkYlLbPkG0\u002Bc/lFQI\u002BQOEg1cpGlDYP8TQVjxetYLi9DhYZcKYdCloeqqSQViKYn8f7GCL4\u002BdolsjrPqZMF\u002B8\u002BExV1lRfGleaY5tlP0zqzIu/JQC6\u002BtCOryCXDgKw6OD1hhIs2WU4xI6mjsx\u002BvrHaORCyFCCZVWFVgtri7qw/mebt3Br4BC73NPBIZGWEVsM4uFsL9KrByGyAkkkWxFX0cf24/zRt/FC6CQ8Ns\u002B\u002BJTM5tX47OrOwSp6vdbb6Q4c73Kc4O4tYUkN6MwRKDsLuT0HMJ/CU1I43B0bw1tBIxcjUZlpAdGpqYvavWzcqhrH524jN39FFxVZk65qebm1uOHeqP4BkXsc2r0NM\u002BWE8OAy7L4rPX/oEZyJnwZI22WmvZKaE6ejkxPTdqmGtbebu/oa529dgt7FwO\u002B3obnGgI2iDi2PgdzRg9MAFdLl6YZBcilSZKzXbj5whtVYzqRlKRR6lYp4kUzBbJ1cCNFJZ72Hhd9sRtIXB6nboul5b7uPaoWZoompAtghMLEuIZwxyhDFoD9LoDqvI8SISKQFxcnytb/E1lWS1cpjssOs8pGiGVw37yty61Ej\u002BC9cZouBlVTHoKKTWE7liOsvL0EpaucSbK6\u002BR2kqsWeFuw5YAN336eOCLsqK\u002BIxSl7rwgI54UZhaWtn9cXElOKqr28N6dMX7qjyuKVbIH4F/CwpxOdjf1iQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-11-02T11:55:31.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form4.cs [Design]",
+              "RelativeToolTip": "Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:16:28.993Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAhwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:02:28.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form3.cs [Design]",
+              "RelativeToolTip": "Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:12:32.516Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form2.cs [Design]",
+              "RelativeToolTip": "Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:01:02.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:52:30.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form7.cs",
+              "RelativeDocumentMoniker": "Form7.cs",
+              "ToolTip": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form7.cs",
+              "RelativeToolTip": "Form7.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAawBYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:35:54.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form11.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form11.cs",
+              "RelativeDocumentMoniker": "Form11.cs",
+              "ToolTip": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form11.cs [Design]",
+              "RelativeToolTip": "Form11.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T05:39:44.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form11.cs",
+              "DocumentMoniker": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form11.cs",
+              "RelativeDocumentMoniker": "Form11.cs",
+              "ToolTip": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form11.cs",
+              "RelativeToolTip": "Form11.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T05:43:34.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Kavindi\\source\\repos\\AtlanticBookShop\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAlwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:59:11.051Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
