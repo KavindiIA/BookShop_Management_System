@@ -25,9 +25,3 @@ The application uses Microsoft SQL Server Management for database management, wh
 - **Microsoft SQL Server**: Database management system.
 - **Crystal Reports**: For reporting functionalities.
 
-## Getting Started
-To run the Attlattic Book Shop Management System locally, follow these steps:
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/attlattic-bookshop-management.git
